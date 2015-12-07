@@ -3,15 +3,21 @@ Oracle JET for JSP
 
 "Oracle JavaScript Extension Toolkit (JET) empowers developers by providing a modular toolkit based on modern JavaScript, CSS3 and HTML5 design and development principles."
 
--http://www.oracle.com/webfolder/technetwork/jet/index.html
+- http://www.oracle.com/webfolder/technetwork/jet/index.html
 
-Oracle JET for JSP is simple adaptation to use JSP instead of HTML with Oracle JET.
+Oracle JET for JSP is an adaptation to use JSP instead of HTML with Oracle JET.
 
-Additionally Maven and Log4j2 support is added and works fine with Apache Tomcat 8.
+All frontend infrastructure is taken from Oracle JET QuickStart Template:
+- http://www.oracle.com/technetwork/developer-tools/jet/downloads/index.html
 
-Current template also has some sample codes to make
+Additional Features:
+* JSP support
+* Build with Maven
+* Log4j2 support
+* Works fine on Apache Tomcat 8
+
+Template also has some sample code to show backend-frontend data transmission with
 * AJAX request
-* POST request
-* Retrieve data from JavaScript
+* GET/POST request
 
-In a nutshell, Oracle JET for JSP is a simple template to make a Java Web Application very easily.
+In a nutshell, Oracle JET for JSP is just a simple template to make a Java Web Application without any need to other web application or JavaScript frameworks.
