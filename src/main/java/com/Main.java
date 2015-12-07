@@ -13,7 +13,7 @@ public class Main {
 	}
 
 	/**
-	 * Test data which is invoked in javascript
+	 * Test data which is invoked in JSP
 	 * */
 	public static String getTestData() {
 		if (logger.isDebugEnabled()) {
