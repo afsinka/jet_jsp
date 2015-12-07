@@ -2,7 +2,7 @@
 Oracle JET for JSP
 
 "Oracle JavaScript Extension Toolkit (JET) empowers developers by providing a modular toolkit based on modern JavaScript, CSS3 and HTML5 design and development principles."
-"Oracle JET is targeted at intermediate to advanced JavaScript developers working on client-side applications."
+
 -http://www.oracle.com/webfolder/technetwork/jet/index.html
 
 Oracle JET for JSP is simple adaptation to use JSP instead of HTML with Oracle JET.
