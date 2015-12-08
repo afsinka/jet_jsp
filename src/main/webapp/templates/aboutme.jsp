@@ -18,7 +18,7 @@
 
 Backend says:
 <p>
-<%=Main.getTestData()%>
-<br/><br/>
-Time :
-<%=new Date()%>
+	<%=Main.getTestData()%>
+	<br />
+	<br /> Time :
+	<%=new Date()%>

@@ -24,7 +24,7 @@ public class MyServlet extends HttpServlet {
 		}
 
 		String username = request.getParameter("username");
-		//String password = request.getParameter("password");
+		// String password = request.getParameter("password");
 
 		if (logger.isDebugEnabled()) {
 			logger.debug("userName: " + username);

@@ -1,10 +1,7 @@
 <h1>Complementary</h1>
-<div>
-    Content in this area will be wrapped below the Navigation and 
-    Main Content Area sections when the viewport is made smaller. 
-    At the smallest viewport size, it will be the last section listed.
-</div>
-<br/>
-<div>
-    To change the content of this section, you will make edits to the compContent.jsp file located in the /templates folder.
-</div>
+<div>Content in this area will be wrapped below the Navigation and
+	Main Content Area sections when the viewport is made smaller. At the
+	smallest viewport size, it will be the last section listed.</div>
+<br />
+<div>To change the content of this section, you will make edits to
+	the compContent.jsp file located in the /templates folder.</div>

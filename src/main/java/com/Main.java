@@ -14,7 +14,7 @@ public class Main {
 
 	/**
 	 * Test data which is invoked in JSP
-	 * */
+	 */
 	public static String getTestData() {
 		if (logger.isDebugEnabled()) {
 			logger.debug("getTestData() is invoked");
