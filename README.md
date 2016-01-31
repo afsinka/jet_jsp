@@ -18,6 +18,5 @@ Additional Features:
 
 Template also has some sample code to show backend-frontend data transmission with
 * AJAX request
-* GET/POST request
 
 In a nutshell, Oracle JET for JSP is just a simple template to make a Java Web Application without any need to other web application frameworks.
